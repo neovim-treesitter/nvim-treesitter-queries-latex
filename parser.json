@@ -1,8 +1,8 @@
 {
+  "semver": false,
+  "parser_version": "7e0ecdc02926c7b9b2e0c76003d4fe7b0944f957",
   "location": null,
   "lang": "latex",
   "generate": true,
-  "url": "https://github.com/latex-lsp/tree-sitter-latex",
-  "semver": false,
-  "parser_version": "7e0ecdc02926c7b9b2e0c76003d4fe7b0944f957"
+  "url": "https://github.com/latex-lsp/tree-sitter-latex"
 }
