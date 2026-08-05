@@ -398,4 +398,5 @@
   (#lua-match? @keyword.directive "^%% !TeX"))
 
 ((line_comment) @keyword.directive @nospell
-  (#lua-match? @keyword.directive "^%%&"))
+  (#lua-match? @keyword.directive "^%%&")
+  (#eq? @keyword.directive 0))
